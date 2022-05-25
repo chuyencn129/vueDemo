@@ -1,0 +1,14 @@
+.avatar-img{
+    border-radius: 50%;
+    width: 150px;
+}
+.box-avatar{
+    text-align: center;
+}
+.text-item{
+    color: #7d8087;
+}
+.text-item p{
+    margin-top: 5px;
+    font-weight: bold;
+}
